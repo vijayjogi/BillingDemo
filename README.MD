@@ -4,7 +4,7 @@ Section 1
 
 Section 2: 
 	Build IDE: Version: Kepler Release Build id: 20130614-0229
-	JDK Version: java version "1.6"
+	JDK Version: java version "1.7"
 
 Section 3 
 a)	Sonar lint / EclEmma scan Snapshot 
